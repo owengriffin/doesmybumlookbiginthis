@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Dmblbit</string>
+<string name="app_title">Does my bum look big in this?</string>
+<string name="instruction0">Take a photo of her hair...</string>
+<string name="instruction1">And then a photo of her skin colour...</string>
+<string name="instruction2">Now the item of clothing...</string>
+<string name="takephoto">Take a photo</string>
+<string name="reset">Try again..</string>
+<string name="introduction0">Have you ever been clothes shopping with your partner and they have asked for advice on a particularly mundane item of clothing?</string>
+<string name="introduction1">Do you find it hard to think of something meaningful to say?</string>
+<string name="introduction2">After all.. they all look the same don't they..</string>
+<string name="introduction3">This application helps you decide what to say by analysing the hair colour, skin tone of your partner and matching it with the colour of the garment.</string>
+<string name="introduction4">It then suggests an appropriate comment...</string>
+<string name="startbutton">Start!</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="wrap_content"
+  android:layout_height="fill_parent" android:layout_margin="5sp">
+<TableRow>
+<TextView android:text="@string/introduction0" android:id="@+id/introduction0" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="5sp"></TextView></TableRow>
+<TableRow>
+<TextView android:text="@string/introduction1" android:id="@+id/introduction1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="5sp"></TextView>
+</TableRow>
+<TableRow>
+<TextView android:text="@string/introduction2" android:id="@+id/introduction2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="5sp"></TextView>
+</TableRow>
+<TableRow>
+<TextView android:text="@string/introduction3" android:id="@+id/introduction3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="5sp"></TextView>
+</TableRow>
+<TableRow>
+<TextView android:text="@string/introduction4" android:id="@+id/introduction4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="5sp"></TextView>
+</TableRow>
+<TableRow android:layout_gravity="bottom">
+<Button android:text="@string/startbutton" android:id="@+id/startbutton" android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
+</TableRow>
+</TableLayout>
